@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Event Management System](https://github.com/NourEdden-Albishawi/ems)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java, Sql and Web Development**
 
